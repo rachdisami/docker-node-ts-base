@@ -1,3 +1,6 @@
+css:
+	npm run tailwind:css
+	
 up:
 	docker-compose up -d
 
